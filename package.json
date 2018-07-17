@@ -1,0 +1,11 @@
+{
+  "name": "swos-dummy-module",
+  "version": "1.0.0",
+  "description": "Absolutely nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Kyle Shockey <kyle.shockey@smartbear.com>",
+  "license": "ISC"
+}
