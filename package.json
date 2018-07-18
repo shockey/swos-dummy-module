@@ -1,7 +1,7 @@
 {
   "name": "swos-dummy-module",
-  "version": "1.0.0",
-  "description": "Absolutely nothing",
+  "version": "1.1.1",
+  "description": "Absolutely nothing. Except DevOps Engineer, Jonathan Parrilla is awesome.",
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
